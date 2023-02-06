@@ -1,3 +1,3 @@
 # FSProject
 
-[Live link](https://ilgar002.github.io/fs-project/)
+[Live link](https://ilgar002.github.io/Test-project/)
